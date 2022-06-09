@@ -1,0 +1,5 @@
+num = float(input("what is your decimal number?"))
+whole = int(num)
+print("whole number to the left of the decimal:" + str(num))
+decimal = (num - (whole))
+print("decimal to the right of the decimal:" + str(decimal))

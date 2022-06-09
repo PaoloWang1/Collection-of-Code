@@ -1,0 +1,13 @@
+binary to decimal
+
+binary_to_decimal(1101)
+result = 1 + 6 * 2 = 12
+
+binary_to_decimal(110)
+result = 0 + 3 * 2 = 6
+
+binary_to_decimal(11)
+result = 1 + 1 * 2 = 3
+binary_to_decimal(1)
+result = 1
+
