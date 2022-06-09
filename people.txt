@@ -1,0 +1,10 @@
+Tom, Jones, Male, 25, 187, 80.5
+Jessica, Lewis, Female, 33, 172, 61.3
+Gordan, Ramsay, Male, 53, 188, 88.7
+Elon, Musk, Male, 49, 188, 85.2
+Jeff, Bezos, Male, 56, 170, 72
+Sara, Blakely, Female, 49, 175, 60
+Mike, Bloomberg, Male, 79, 173, 75
+Sergey, Brin, Male, 46, 173, 73
+Bill, Gates, Male, 64, 178, 82.9
+Martha, Stewart, Female, 78, 175, 73.1
